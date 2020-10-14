@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEAT] "
-labels: enhancement
+labels: 'Status: :vertical_traffic_light: Awaiting'
 assignees: alphaX86
 
 ---

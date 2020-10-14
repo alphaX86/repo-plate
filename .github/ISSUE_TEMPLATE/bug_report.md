@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG] "
-labels: bug, help wanted
+labels: 'Status: :vertical_traffic_light: Awaiting'
 assignees: alphaX86
 
 ---
